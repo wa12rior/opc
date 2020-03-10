@@ -1,1 +1,3 @@
-"#OOP Python Classes with dr Roman Czapla" 
+# OOP Python Classes 
+
+Mentor: dr Roman Czapla
